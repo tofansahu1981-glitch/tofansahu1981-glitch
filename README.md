@@ -37,7 +37,9 @@
 
 </div>
 <!-- ================= ABOUT ME ================= -->
-
+<p align="center">
+  <img src="./glass-about.svg" width="100%" alt="Glass About Me"/>
+</p>
 <h2 align="center">⚡ About Me | 忍者 Developer ⚡</h2>
 
 <p align="center">
