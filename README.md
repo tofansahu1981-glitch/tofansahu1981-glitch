@@ -63,7 +63,16 @@
 </p>
 
 ---
+<!-- CONTRIBUTION SNAKE -->
+<br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake.svg" />
+  </picture>
+</div>
 <!-- ================= TECH STACK ================= -->
 
 <h2 align="center">⚔️ My Tech Stack</h2>
