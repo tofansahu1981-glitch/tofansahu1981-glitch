@@ -1,3 +1,20 @@
+ <!-- NARUTO AND SASUKE ANIMATED BANNER -->
+
+<p align="center">
+  <img
+    src="./naruto-banner.gif.gif"
+    width="100%"
+    alt="Naruto and Sasuke Developer Banner"
+  />
+</p>
+
+<p align="center">
+  <strong>
+    ⚡ ASPIRING DEVELOPER | NEVER GIVE UP ⚡
+  </strong>
+</p>
+
+---           
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
