@@ -1,85 +1,47 @@
+
 <div align="center">
 
-<img src="spider-profile-layout.gif?v=5"
+<img src="hero.svg?v=10"
      width="100%"
-     alt="Tofan Sahu Spider-Man Animated Profile"/>
+     alt="Tofan Sahu - Animated Spider-Verse Developer Hero"/>
 
-# 🕷️ TOFAN SAHU | SPIDER-VERSE DEVELOPER
+# 🕷️ TOFAN SAHU
 
-### Building Beyond the Ordinary
+### SPIDER-VERSE DEVELOPER
 
-**Developer in Progress • Code • Create • Contribute**
+**Developer in Progress · Building · Learning · Creating**
 
-[![GitHub](https://img.shields.io/badge/GitHub-tofansahu1981--glitch-black?style=for-the-badge&logo=github)](https://github.com/tofansahu1981-glitch)
+<a href="https://github.com/tofansahu1981-glitch">
+  <img src="https://img.shields.io/badge/GitHub-Tofan_Sahu-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tofansahu1981-glitch&style=for-the-badge&color=e62950)](https://github.com/tofansahu1981-glitch)
+<img src="https://komarev.com/ghpvc/?username=tofansahu1981-glitch&style=for-the-badge&color=e62950" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🕸️ SPIDER-VERSE ANIMATED GALLERY
+## 🕸️ ABOUT MY SPIDER-VERSE
 
-<div align="center">
-
-<img src="spider-portrait-blue-red.gif?v=5"
+<img src="about-life.svg?v=10"
      width="100%"
-     alt="Spider-Man Portrait"/>
+     alt="Animated About Me Section"/>
 
-### ⚡ SPIDER-MAN HERO
+---
 
-</div>
+## ⚡ MY TECHNOLOGY UNIVERSE
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="spider-portrait-github.gif?v=5"
+<img src="stack.svg?v=10"
      width="100%"
-     alt="GitHub Spider-Man Portrait"/>
+     alt="Animated Technology Stack Orbit"/>
 
-**💻 GITHUB DEVELOPER**
+---
 
-</td>
-<td width="50%" align="center">
+## 🪪 MY DEVELOPER ID & MISSION DASHBOARD
 
-<img src="spider-id-dashboard.gif?v=5"
+<img src="id-dashboard.svg?v=10"
      width="100%"
-     alt="Animated Spider-Man ID Card"/>
-
-**🪪 SPIDER-MAN ID CARD**
-
-</td>
-</tr>
-</table>
-
----
-
-## 👨‍💻 ABOUT ME
-
-- 🕷️ Name: Tofan Sahu
-- 💻 Passion: Software Development
-- 🌱 Learning new technologies.
-- 🚀 Building creative projects.
-- 🤝 Open to collaboration.
-
----
-
-## 🧬 ABOUT & WHAT I BUILD
-
-<img src="about-life.svg?v=5" width="100%" alt="About Me"/>
-
----
-
-## ⚙️ TECHNOLOGY STACK
-
-<img src="stack.svg?v=5" width="100%" alt="Technology Stack"/>
-
----
-
-## 🪪 MISSION DASHBOARD
-
-<img src="id-dashboard.svg?v=5" width="100%" alt="Mission Dashboard"/>
+     alt="Animated Developer ID Card and Dashboard"/>
 
 ---
 
@@ -87,54 +49,50 @@
 
 <div align="center">
 
-<img height="165"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api?username=tofansahu1981-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff496d&icon_color=39d7ff&text_color=c9d1d9&rank_icon=github"
-alt="GitHub Stats"/>
+alt="GitHub Statistics"/>
 
-<img height="165"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofansahu1981-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff496d&text_color=c9d1d9"
 alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=tofansahu1981-glitch&hide_border=true&background=0D1117&ring=FF496D&fire=FF496D&currStreakLabel=39D7FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak"/>
+<img width="90%"
+src="https://streak-stats.demolab.com?user=tofansahu1981-glitch&hide_border=true&background=0D1117&ring=FF496D&fire=FF496D&currStreakLabel=39D7FF&sideLabels=C9D1D9&dates=8B949E"
+alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🕸️ FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 | Project | Description | Technology |
 |---|---|---|
-| Project One | Add your real project | HTML, CSS |
-| Project Two | Add your real project | JavaScript |
-| Project Three | Add your real project | Python |
+| Project One | Add your project description | HTML, CSS |
+| Project Two | Add your project description | JavaScript |
+| Project Three | Add your project description | Python |
 
 ---
 
 ## 🌐 CONNECT WITH ME
 
-<div align="center">
-
-<img src="connect.svg?v=5"
+<img src="connect.svg?v=10"
      width="100%"
-     alt="Connect with Tofan Sahu"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-black?style=for-the-badge&logo=github)](https://github.com/tofansahu1981-glitch)
-
-</div>
-
----
+     alt="Animated Connect Section"/>
 
 <div align="center">
 
-# 🕷️ THANKS FOR VISITING!
+<a href="https://github.com/tofansahu1981-glitch">
+  <img src="https://img.shields.io/badge/FOLLOW_ME_ON_GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
 
-**KEEP LEARNING • KEEP BUILDING • KEEP CONTRIBUTING**
+### 🕷️ THANKS FOR VISITING MY PROFILE
+
+**KEEP LEARNING · KEEP BUILDING · KEEP GROWING**
 
 *With great code comes great responsibility.*
 
 </div>
-
