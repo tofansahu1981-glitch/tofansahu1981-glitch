@@ -59,3 +59,59 @@
 <sub>With great code comes great responsibility.</sub>
 
 </div>
+<h1 align="center">🕷️ SPIDER-MAN DEVELOPER PROFILE</h1>
+
+<p align="center">
+  <b>Building Beyond the Ordinary</b><br>
+  Code • Create • Contribute
+</p>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="assets/spider-profile-layout.svg?v=1"
+        alt="Spider-Man Animated Profile"
+        width="100%">
+      <br>
+      <b>⚡ Complete Profile</b>
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="assets/spider-portrait-blue-red.svg?v=1"
+        alt="Spider-Man Portrait Red Blue"
+        width="100%">
+      <br>
+      <b>🕸️ Spider-Man Portrait</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="assets/spider-portrait-github.svg?v=1"
+        alt="GitHub Spider-Man Portrait"
+        width="100%">
+      <br>
+      <b>💻 GitHub Developer</b>
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="assets/spider-id-dashboard.svg?v=1"
+        alt="Animated Spider ID Dashboard"
+        width="100%">
+      <br>
+      <b>🪪 Animated ID Dashboard</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">🚀 CODE • CREATE • CONTRIBUTE</h3>
+
+<p align="center">
+  <i>With great code comes great responsibility.</i>
+</p>
