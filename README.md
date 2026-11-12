@@ -48,9 +48,6 @@
 <td width="50%">
 <img src="./spider-portrait-blue-red.svg" width="100%">
 </td>
-<td width="50%">
-<img src="./spider-portrait-github.svg" width="100%">
-</td>
 </tr>
 <tr>
 <td colspan="2" align="center">
