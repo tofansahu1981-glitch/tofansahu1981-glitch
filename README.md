@@ -77,23 +77,11 @@
 
 ---
 
-## 📊 GITHUB STATISTICS
+📊 GITHUB STATISTICS
 
-<div align="center">
+<div align="center"><!-- GitHub Stats --><img src="https://github-stats-extended.vercel.app/api?username=tofansahu1981-glitch&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/><!-- Top Languages --><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tofansahu1981-glitch&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/><!-- Contribution Streak --><img src="https://streak-stats.demolab.com?user=tofansahu1981-glitch&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak"/></div>---
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=tofansahu1981-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff496d&icon_color=39d7ff&text_color=c9d1d9&rank_icon=github"
-alt="GitHub Statistics"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofansahu1981-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff496d&text_color=c9d1d9"
-alt="Top Languages"/>
-
-<br/>
-
-<img width="90%"
-src="https://streak-stats.demolab.com?user=tofansahu1981-glitch&hide_border=true&background=0D1117&ring=FF496D&fire=FF496D&currStreakLabel=39D7FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Contribution Streak"/>
+<div align="center">🕷️ KEEP CODING · KEEP BUILDING · KEEP LEARNING
 
 </div>
 
