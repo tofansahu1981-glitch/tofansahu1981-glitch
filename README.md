@@ -4,7 +4,11 @@
 <img src="hero.svg?v=10"
      width="100%"
      alt="Tofan Sahu - Animated Spider-Verse Developer Hero"/>
-
+<p align="center">
+  <img src="assets/spider-hero-animated.gif" width="220">
+  <img src="assets/dr-doom-animated.gif" width="220">
+  <img src="assets/iron-hero-animated.gif" width="220">
+</p>
 # 🕷️ TOFAN SAHU
 
 ### SPIDER-VERSE DEVELOPER
