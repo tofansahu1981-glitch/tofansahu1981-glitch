@@ -6,10 +6,29 @@
      alt="Tofan Sahu - Animated Spider-Verse Developer Hero"/>
 <p align="center">
      
-  <img src="assets/spider-hero-animated.gif" width="220">
-  <img src="assets/dr-doom-animated.gif" width="220">
-  <img src="assets/iron-hero-animated.gif" width="220">
- </p>
+  <!-- 🕷️ ANIMATED SUPERHERO STICKERS -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/spider-hero-animated.gif"
+    width="150"
+    alt="Spider Hero Sticker"
+  />
+  <img
+    src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/dr-doom-animated.gif"
+    width="150"
+    alt="Dr Doom Sticker"
+  />
+  <img
+    src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/iron-hero-animated.gif"
+    width="150"
+    alt="Iron Hero Sticker"
+  />
+</p>
+
+<h1 align="center">🕷️ TOFAN SAHU</h1>
+
+<h3 align="center">SPIDER-VERSE DEVELOPER</h3>
  
 # 🕷️ TOFAN SAHU
 
