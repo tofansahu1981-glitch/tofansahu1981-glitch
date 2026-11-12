@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a0d15"/><stop offset="1" stop-color="#151b2a"/></linearGradient><linearGradient id="red"><stop stop-color="#ff3158"/><stop offset="1" stop-color="#b3123d"/></linearGradient></defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)" stroke="#354052"/>
+<text x="42" y="48" fill="#ff607e" font-family="Arial" font-size="14" letter-spacing="3">02 / THE TOOLKIT</text>
+<text x="42" y="88" fill="#f8fafc" font-family="Arial" font-size="28" font-weight="700">Technologies &amp; Skills</text>
+<g transform="translate(300 220)" fill="none" stroke-width="2">
+ <ellipse rx="210" ry="72" stroke="#ff4268" opacity=".75" transform="rotate(-24)"><animateTransform attributeName="transform" type="rotate" from="-24 0 0" to="336 0 0" dur="2s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="210" ry="72" stroke="#38cfff" opacity=".7" transform="rotate(36)"><animateTransform attributeName="transform" type="rotate" from="36 0 0" to="-324 0 0" dur="2s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="210" ry="72" stroke="#9b8cff" opacity=".55" transform="rotate(90)"/>
+ <circle r="49" fill="#151d2b" stroke="url(#red)" stroke-width="3"/>
+ <path d="M0-28C-19-28-31-14-31 4c0 19 13 34 31 42C18 38 31 23 31 4 31-14 19-28 0-28Z" fill="#e92d53" stroke="#ff91a5"/>
+ <path d="M-22-2Q-10-17-2-1L-7 10Q-18 10-22-2ZM22-2Q10-17 2-1L7 10Q18 10 22-2Z" fill="#fff" stroke="#18202d" stroke-width="3"/>
+ <g fill="#f8fafc" stroke="#0b0e16" stroke-width="5" font-family="Arial" font-size="13" text-anchor="middle"><circle cx="-186" cy="-67" r="23" fill="#172638" stroke="#ff4268"/><text x="-186" y="-63" stroke="none">HTML</text><circle cx="190" cy="-65" r="23" fill="#172638" stroke="#38cfff"/><text x="190" y="-61" stroke="none">JS</text><circle cx="-194" cy="70" r="23" fill="#172638" stroke="#9b8cff"/><text x="-194" y="74" stroke="none">PY</text><circle cx="190" cy="69" r="23" fill="#172638" stroke="#ff4268"/><text x="190" y="73" stroke="none">C++</text></g>
+</g>
+<g transform="translate(590 125)" font-family="Arial">
+ <text x="0" y="0" fill="#9eacc0" font-size="12" letter-spacing="2">CORE SKILLS</text>
+ <g font-size="15">
+  <rect x="0" y="22" width="245" height="43" rx="11" fill="#171e2c" stroke="#7d2942"/><text x="18" y="49" fill="#ff8098">HTML</text><text x="220" y="49" fill="#64748b" text-anchor="end">01</text>
+  <rect x="260" y="22" width="245" height="43" rx="11" fill="#171e2c" stroke="#256a91"/><text x="278" y="49" fill="#72dcff">CSS</text><text x="485" y="49" fill="#64748b" text-anchor="end">02</text>
+  <rect x="0" y="78" width="245" height="43" rx="11" fill="#171e2c" stroke="#256a91"/><text x="18" y="105" fill="#72dcff">JavaScript</text><text x="220" y="105" fill="#64748b" text-anchor="end">03</text>
+  <rect x="260" y="78" width="245" height="43" rx="11" fill="#171e2c" stroke="#7d2942"/><text x="278" y="105" fill="#ff8098">Python</text><text x="485" y="105" fill="#64748b" text-anchor="end">04</text>
+  <rect x="0" y="134" width="245" height="43" rx="11" fill="#171e2c" stroke="#7d2942"/><text x="18" y="161" fill="#ff8098">Java</text><text x="220" y="161" fill="#64748b" text-anchor="end">05</text>
+  <rect x="260" y="134" width="245" height="43" rx="11" fill="#171e2c" stroke="#256a91"/><text x="278" y="161" fill="#72dcff">C++</text><text x="485" y="161" fill="#64748b" text-anchor="end">06</text>
+  <rect x="0" y="190" width="505" height="43" rx="11" fill="#171e2c" stroke="#475569"/><text x="18" y="217" fill="#d5deeb">Git &amp; GitHub</text><text x="485" y="217" fill="#64748b" text-anchor="end">07</text>
+ </g>
+ <text x="0" y="270" fill="#74839a" font-size="12">Learning in public • Improving with every project</text>
+</g></svg>
