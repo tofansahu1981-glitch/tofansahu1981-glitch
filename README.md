@@ -43,18 +43,6 @@
      alt="Animated Technology Stack Orbit"/>
 
 ---
-<table>
-<tr>
-<td width="50%">
-<img src="./spider-portrait-blue-red.svg" width="100%">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="./spider-id-dashboard.svg" width="80%">
-</td>
-</tr>
-</table>
 
 ## 🪪 MY DEVELOPER ID & MISSION DASHBOARD
 
