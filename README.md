@@ -1,115 +1,61 @@
- <!-- NARUTO AND SASUKE ANIMATED BANNER -->
-
-<p align="center">
-  <img
-    src="./naruto-banner.gif.gif"
-    width="100%"
-    alt="Naruto and Sasuke Developer Banner"
-  />
-</p>
-
-<p align="center">
-  <strong>
-    ⚡ ASPIRING DEVELOPER | NEVER GIVE UP ⚡
-  </strong>
-</p>
-
----           
- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/light.svg">
-  <img
-    alt="GitHub Profile Banner"
-    src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/main/light.svg"
-    width="100%">
-</picture>
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=tofansahu1981-glitch&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak" />
+<img src="hero.svg?v=2" width="100%" alt="Tofan Sahu - Spider-Verse Developer Hero"/>
 
-<img width="49%" src="https://github-readme-stats-lime-one-golpdbonnx.vercel.app/api?username=tofansahu1981-glitch&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+### 🕷️ Welcome to my Spider-Verse
 
-<img width="49%" src="https://github-readme-stats-lime-one-golpdbonnx.vercel.app/api/top-langs/?username=tofansahu1981-glitch&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+**Developer in progress · Building, learning, and shipping one project at a time**
+
+[![GitHub](https://img.shields.io/badge/GitHub-tofansahu1981--glitch-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tofansahu1981-glitch)
+[![Profile Views](https://komarev.com/ghpvc/?username=tofansahu1981-glitch&style=for-the-badge&color=e62950)](https://github.com/tofansahu1981-glitch)
 
 </div>
-<!-- ================= ABOUT ME ================= -->
-<p align="center">
-  <img src="./glass-about.svg" width="100%" alt="Glass About Me"/>
-</p>
-<h2 align="center">⚡ About Me | 忍者 Developer ⚡</h2>
-
-<p align="center">
-  <b>Building • Learning • Improving • Creating</b>
-</p>
-
-<p align="center">
-  Hello! 👋 I'm a beginner developer passionate about
-  programming, technology, and building creative projects.
-  <br><br>
-  🚀 Currently learning and improving my coding skills.<br>
-  💻 Exploring Web Development and Software Development.<br>
-  🐍 Learning Python and Java.<br>
-  🎯 Focused on writing clean code and building real projects.<br>
-  🍥 Inspired by Naruto's determination and never-give-up mindset.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Experience-Beginner-7C3AED?style=for-the-badge"/>
-</p>
-
----
- 
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="center">⚔️ My Tech Stack</h2>
-
-<p align="center">
-  Technologies I'm learning and working with:
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
 
 ---
 
-<!-- ================= NINJA MINDSET ================= -->
+<img src="about-life.svg?v=2" width="100%" alt="About Tofan Sahu"/>
 
-<h2 align="center">🍥 Ninja Mindset</h2>
+## 🧬 Technology Stack
 
-<p align="center">
-  <i>"Train hard. Write code. Never give up."</i>
-</p>
+<img src="stack.svg?v=2" width="100%" alt="Animated technology orbit and skills"/>
 
-<p align="center">
-  🔥 Every bug is a lesson. Every project is progress.
-</p>
-<!-- CONTRIBUTION SNAKE -->
-<br/>
+## 🪪 Mission Dashboard
+
+<img src="id-dashboard.svg?v=2" width="100%" alt="Developer mission dashboard"/>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/tofansahu1981-glitch/tofansahu1981-glitch/output/github-snake.svg" />
-  </picture>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tofansahu1981-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff496d&icon_color=39d7ff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofansahu1981-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff496d&text_color=c9d1d9" alt="Top languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tofansahu1981-glitch&hide_border=true&background=0D1117&ring=FF496D&fire=FF496D&currStreakLabel=39D7FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🕸️ Featured Projects
+
+> Add your best repositories here. Replace the example rows with your actual project names and links.
+
+| Project | Description | Tech |
+|---|---|---|
+| **Project One** | A project I am proud to build and improve. | HTML · CSS |
+| **Project Two** | A practical tool or application. | JavaScript · Python |
+| **Project Three** | An experiment in programming and problem solving. | Java · C++ |
+
+## 🌐 Connect
+
+<img src="connect.svg?v=2" width="100%" alt="Connect with Tofan Sahu"/>
+
+<div align="center">
+
+**Thanks for visiting my profile. Keep learning. Keep building. 🕷️**
+
+<sub>With great code comes great responsibility.</sub>
+
 </div>
